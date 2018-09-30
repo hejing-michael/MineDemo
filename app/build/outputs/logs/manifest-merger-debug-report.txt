@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7f594037e7e317646b845d565bd70d9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hejing/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/691d088e54f77aa456679568d6dc8b7d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.test:rules:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/560f57c6317ed481ea6d5c5508cf8d5c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support.test:runner:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/0aa028f00895a23c6edab2a504202ff8/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4e46773176b158f5774efa04b7dd2a4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e9224f9ef4eb351f0abf1017a3aa4063/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1d22c34f37d812d45ee2ec89540f6eb4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/37b53c86f51d376e4b6bd3c10a740ce2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/eda851a4cacca97d300fbc00d875768f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fd5481b5322ddfb5c628e241857a2828/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1bc4d1b3c9fc13b4c044ebe0efd25c29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0b75493869fd97f86616cb0b443cd6bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4ea03b263c828978b3ebd7f5d39ec6d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1dbc4c6b969f51db31aadef5898f50d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/147e308f9ba7b1812699700126a26df7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1be301f9b84b933a017a164c3c7651ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2ccae9eb3f0d18a5139d638b681245d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/41ea268ff02da3d6a18cc7853e886a2a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/48fbc6e7998efad3b76269696746a79c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a4851380744241d556403eaa03eda0e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d1b50d17cf9aa7166c05a0d13f5f52b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8a878dda74191e59f1f319caa02bcdfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ce30cd4d6d75c68211609a11e31c684a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f0acdf2505588b53e8d22f063d8b25d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/df8006565357154e4d7df8b874d40ef9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1862ea1360f48e84ef9e2dc9a2b42f8c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f999f3d1f4a3c4366a8f0042de7663cf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f43d5fd76b12ca016d44e98295248b5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9b6d79b3a460c0c95815b1a52282cbe0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/497531f4bfd7d8d7521df344992da7a0/AndroidManifest.xml:17:1-26:12
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hejing/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/691d088e54f77aa456679568d6dc8b7d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hejing/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/691d088e54f77aa456679568d6dc8b7d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.test:runner:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/0aa028f00895a23c6edab2a504202ff8/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:runner:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/0aa028f00895a23c6edab2a504202ff8/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/41ea268ff02da3d6a18cc7853e886a2a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/41ea268ff02da3d6a18cc7853e886a2a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/48fbc6e7998efad3b76269696746a79c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/48fbc6e7998efad3b76269696746a79c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/497531f4bfd7d8d7521df344992da7a0/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/497531f4bfd7d8d7521df344992da7a0/AndroidManifest.xml:24:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/41ea268ff02da3d6a18cc7853e886a2a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.test.unit.MainActivity
+ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7f594037e7e317646b845d565bd70d9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7f594037e7e317646b845d565bd70d9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hejing/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/691d088e54f77aa456679568d6dc8b7d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hejing/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/691d088e54f77aa456679568d6dc8b7d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:rules:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/560f57c6317ed481ea6d5c5508cf8d5c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:rules:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/560f57c6317ed481ea6d5c5508cf8d5c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:runner:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/0aa028f00895a23c6edab2a504202ff8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:runner:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runner-0.5.aar/0aa028f00895a23c6edab2a504202ff8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4e46773176b158f5774efa04b7dd2a4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4e46773176b158f5774efa04b7dd2a4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e9224f9ef4eb351f0abf1017a3aa4063/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e9224f9ef4eb351f0abf1017a3aa4063/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1d22c34f37d812d45ee2ec89540f6eb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1d22c34f37d812d45ee2ec89540f6eb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/37b53c86f51d376e4b6bd3c10a740ce2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/37b53c86f51d376e4b6bd3c10a740ce2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/eda851a4cacca97d300fbc00d875768f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/eda851a4cacca97d300fbc00d875768f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fd5481b5322ddfb5c628e241857a2828/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fd5481b5322ddfb5c628e241857a2828/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1bc4d1b3c9fc13b4c044ebe0efd25c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/1bc4d1b3c9fc13b4c044ebe0efd25c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0b75493869fd97f86616cb0b443cd6bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0b75493869fd97f86616cb0b443cd6bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4ea03b263c828978b3ebd7f5d39ec6d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4ea03b263c828978b3ebd7f5d39ec6d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1dbc4c6b969f51db31aadef5898f50d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1dbc4c6b969f51db31aadef5898f50d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/147e308f9ba7b1812699700126a26df7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/147e308f9ba7b1812699700126a26df7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1be301f9b84b933a017a164c3c7651ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1be301f9b84b933a017a164c3c7651ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2ccae9eb3f0d18a5139d638b681245d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2ccae9eb3f0d18a5139d638b681245d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/41ea268ff02da3d6a18cc7853e886a2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/41ea268ff02da3d6a18cc7853e886a2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/48fbc6e7998efad3b76269696746a79c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/48fbc6e7998efad3b76269696746a79c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a4851380744241d556403eaa03eda0e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a4851380744241d556403eaa03eda0e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d1b50d17cf9aa7166c05a0d13f5f52b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d1b50d17cf9aa7166c05a0d13f5f52b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8a878dda74191e59f1f319caa02bcdfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8a878dda74191e59f1f319caa02bcdfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ce30cd4d6d75c68211609a11e31c684a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ce30cd4d6d75c68211609a11e31c684a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f0acdf2505588b53e8d22f063d8b25d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f0acdf2505588b53e8d22f063d8b25d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/df8006565357154e4d7df8b874d40ef9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/df8006565357154e4d7df8b874d40ef9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1862ea1360f48e84ef9e2dc9a2b42f8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1862ea1360f48e84ef9e2dc9a2b42f8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f999f3d1f4a3c4366a8f0042de7663cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f999f3d1f4a3c4366a8f0042de7663cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f43d5fd76b12ca016d44e98295248b5b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hejing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f43d5fd76b12ca016d44e98295248b5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9b6d79b3a460c0c95815b1a52282cbe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hejing/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9b6d79b3a460c0c95815b1a52282cbe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/497531f4bfd7d8d7521df344992da7a0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /Users/hejing/.gradle/caches/transforms-1/files-1.1/exposed-instrumentation-api-publish-0.5.aar/497531f4bfd7d8d7521df344992da7a0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hejing/develop/AndroidWorkSpace/UnitDemo/app/src/main/AndroidManifest.xml
