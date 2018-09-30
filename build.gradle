@@ -1,0 +1,49 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.0'
+        
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+ext {
+    // Sdk and tools
+    minSdkVersion = 21
+    targetSdkVersion = 23 //暂时先用22。23以上需要适配权限系统。
+    compileSdkVersion = 26
+    buildToolsVersion = '27.0.3'
+
+    // App dependencies
+    supportLibraryVersion = '26.1.0'
+
+    // Test dependencies
+    junitVersion = '4.12'
+    mockitoVersion = '1.10.19'
+    runnerVersion = '0.5'
+    espressoVersion = '2.2.2'
+
+    // bugly
+    buglyAppId = '85739a38fd'
+    buglyAppKey = '7701bd8e-c960-49da-9413-0878c78d0d28'
+
+}
